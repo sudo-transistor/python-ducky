@@ -1,5 +1,5 @@
 # python-ducky
-new pico-ducky repository, uses python for scripting instead of duckyscript
+new pico-ducky repository, uses python for scripting instead of duckyscript. Inspired by dbisu pico-ducky repo
 
 # installation
 1. clone repository
